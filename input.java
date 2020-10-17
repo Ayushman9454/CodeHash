@@ -7,5 +7,11 @@ class input{
                 
                 int num = Integer.parseInt(in.readLine());
                 System.out.println(num);
+                
+                String s = in.readLine();
+                System.out.println(s);
+                
+                float num2 = Float.parseFloat(in.readLine());
+                System.out.println(num2);
         }
 }
